@@ -5,8 +5,8 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0",
-    "styled-components": "3.2.3",
+    "react-scripts": "5.0.1",
+    "styled-components": "3.4.10",
     "subscribe-ui-event": "1.1.1",
     "modern-normalize": "0.4.0",
     "prop-types": "15.6.1"
